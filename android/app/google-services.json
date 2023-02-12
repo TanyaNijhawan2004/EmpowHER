@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "139705152530",
+    "project_id": "girlpower-595bb",
+    "storage_bucket": "girlpower-595bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139705152530:android:bc015a5d35bb876fe054cb",
+        "android_client_info": {
+          "package_name": "com.example.girlpower"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139705152530-9cn48sifd5q6a9qnf9ccvrm3dc8apn9q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.girlpower",
+            "certificate_hash": "f62899c2c8037b4ea7a181e111407fcf979c6ed1"
+          }
+        },
+        {
+          "client_id": "139705152530-skpjh9f6d9hi48ac5roue0v9qbm2d2ne.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG59F2jwDON7-TIkhkwzhK-XevYv6DcIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "139705152530-skpjh9f6d9hi48ac5roue0v9qbm2d2ne.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
