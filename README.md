@@ -16,7 +16,7 @@
 
 ---
 
-<p align="center"> EmpowHer - Empowering Girls to Support Girls
+<p align="center"> Empowering Girls to Support Girls
     <br> 
 </p>
 
